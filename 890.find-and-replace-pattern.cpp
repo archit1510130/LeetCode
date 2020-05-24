@@ -68,11 +68,7 @@ public:
         // pattern abbb
         // word mees aqqs
 
-        // h1-> a->m    m->a
-        //     b->e    
-
-
-
+        // h1-> a-
 
         
     }
