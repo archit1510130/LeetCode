@@ -18,11 +18,12 @@ public:
         for(int i=index;i<size;i++)
         {
             int f=1;
-            for(int j=index;j<i;j++)
-            {
-                if(nums[j]==nums[i])
-                    f=0;
-            }
+            // for(int j=index;j<i;j++)
+            // {
+            //     if(nums[j]==nums[i])
+            //         f=0;
+            // }
+            if(numsp)
             if(f)
             {
             swap(nums[i],nums[index]);
