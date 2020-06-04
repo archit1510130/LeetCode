@@ -40,10 +40,6 @@ public:
         get_comb(ans,temp,0,target,candidates);
 
         return ans;
-        
-        // 1 1 2 5 6 7 10
-        // 1 2 
-
 
         
     }
